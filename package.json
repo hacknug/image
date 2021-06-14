@@ -60,7 +60,7 @@
     "jsdom": "latest",
     "jsdom-global": "latest",
     "mkdist": "latest",
-    "nuxt": "^2.15.6",
+    "nuxt": "^2.15.7",
     "playwright": "latest",
     "siroc": "latest",
     "standard-version": "latest",
